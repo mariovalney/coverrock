@@ -18,7 +18,7 @@
     src: url('../font/roboto/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
          url('../font/roboto/Roboto-Light-webfont.woff') format('woff'),
          url('../font/roboto/Roboto-Light-webfont.ttf') format('truetype'),
-         url('../font/roboto/Roboto-Light-webfont.svg#Roboto') format('svg');
+         url('../font/roboto/Roboto-Light-webfont.svg#RobotoCR') format('svg');
     font-weight: 300;
     font-style: normal;
 }
@@ -29,7 +29,7 @@
     src: url('../font/roboto/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('../font/roboto/Roboto-Regular-webfont.woff') format('woff'),
          url('../font/roboto/Roboto-Regular-webfont.ttf') format('truetype'),
-         url('../font/roboto/Roboto-Regular-webfont.svg#Roboto') format('svg');
+         url('../font/roboto/Roboto-Regular-webfont.svg#RobotoCR') format('svg');
     font-weight: 400;
     font-style: normal;
 }
@@ -40,9 +40,12 @@
     src: url('../font/roboto/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('../font/roboto/Roboto-Bold-webfont.woff') format('woff'),
          url('../font/roboto/Roboto-Bold-webfont.ttf') format('truetype'),
-         url('../font/roboto/Roboto-Bold-webfont.svg#Roboto') format('svg');
+         url('../font/roboto/Roboto-Bold-webfont.svg#RobotoCR') format('svg');
     font-weight: 700;
+    font-style: normal;
+}
 
+@font-face {
     font-family: "cricons";
     src:url('../font/cricons/cricons.eot');
     src:url('../font/cricons/cricons.eot?#iefix') format('embedded-opentype'),
@@ -409,7 +412,8 @@ header nav li:hover a {
 header form {
     display: inline-block;
     overflow: hidden;
-    width: 250px;
+    width: 240px;
+    max-width: 240px;
     position: relative;
     vertical-align: middle;
 }
