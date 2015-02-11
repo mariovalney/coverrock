@@ -568,8 +568,9 @@ section.eventos h2 {
 
 section.eventos a {
     margin-top: 30px;
-    display: block;
+    display: inline-block;
     font-size: 17px;
+    margin: 30px 20px 0px 20px;
 }
 
 /*****************************************************
