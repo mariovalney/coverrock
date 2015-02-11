@@ -5,22 +5,22 @@
 
 @font-face {
     font-family: 'Rock';
-    src: url('../font/rock/RockSalt-webfont.eot');
-    src: url('../font/rock/RockSalt-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/rock/RockSalt-webfont.woff') format('woff'),
-         url('../font/rock/RockSalt-webfont.ttf') format('truetype'),
-         url('../font/rock/RockSalt-webfont.svg#Rock') format('svg');
+    src: url('http://mariovalney.github.io/coverrock/font/rock/RockSalt-webfont.eot');
+    src: url('http://mariovalney.github.io/coverrock/font/rock/RockSalt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://mariovalney.github.io/coverrock/font/rock/RockSalt-webfont.woff') format('woff'),
+         url('http://mariovalney.github.io/coverrock/font/rock/RockSalt-webfont.ttf') format('truetype'),
+         url('http://mariovalney.github.io/coverrock/font/rock/RockSalt-webfont.svg#Rock') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "cricons";
-    src:url('../font/cricons/cricons.eot');
-    src:url('../font/cricons/cricons.eot?#iefix') format('embedded-opentype'),
-        url('../font/cricons/cricons.woff') format('woff'),
-        url('../font/cricons/cricons.ttf') format('truetype'),
-        url('../font/cricons/cricons.svg#cricons') format('svg');
+    src:url('http://mariovalney.github.io/coverrock/font/cricons/cricons.eot');
+    src:url('http://mariovalney.github.io/coverrock/font/cricons/cricons.eot?#iefix') format('embedded-opentype'),
+        url('http://mariovalney.github.io/coverrock/font/cricons/cricons.woff') format('woff'),
+        url('http://mariovalney.github.io/coverrock/font/cricons/cricons.ttf') format('truetype'),
+        url('http://mariovalney.github.io/coverrock/font/cricons/cricons.svg#cricons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
