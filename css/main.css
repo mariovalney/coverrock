@@ -13,7 +13,6 @@
 }
 
 @font-face {
-<<<<<<< HEAD
     font-family: 'RobotoCR';
     src: url('../font/roboto/Roboto-Light-webfont.eot');
     src: url('../font/roboto/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
@@ -247,9 +246,6 @@ body {
     font-size:16px;
 <<<<<<< HEAD
     font-family: 'RobotoCR', 'Roboto', 'Calibri', sans-serif;
-=======
-    font-family: 'Roboto', 'Calibri', sans-serif;
->>>>>>> 496d16635b307b6908d223b2ed64ae19097600e8
     color:#000;
     margin: 0;
     padding: 0;
@@ -364,11 +360,7 @@ header .logo:hover {
 header h1 {
     font-family: 'Rock';
     font-size: 100px;
-<<<<<<< HEAD
     font-weight: bold;
-=======
-    font-weight: normal;
->>>>>>> 496d16635b307b6908d223b2ed64ae19097600e8
     color: #FFFFFF;
     text-shadow: 1px 3px 3px #333333;
     padding-top: 280px;
@@ -378,11 +370,7 @@ header h1 {
 }
 
 header h2 {
-<<<<<<< HEAD
     font-size: 23px;
-=======
-    font-size: 25px;
->>>>>>> 496d16635b307b6908d223b2ed64ae19097600e8
     font-weight: lighter;
     color: #FFFFFF;
     z-index: 99;
